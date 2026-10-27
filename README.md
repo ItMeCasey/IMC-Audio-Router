@@ -48,4 +48,3 @@ Browsers show "Audio output 1, 2, 3" until the extension page may read device na
 ## Using it with IMC-Stream
 
 IMC-Stream's Voicemeeter setup keeps music and alerts out of your VOD. Install this extension, then route a tab (a YouTube video, a music site) to **Voicemeeter AUX Input** so you hear it and the recording does not.
-`imc-stream-integration/` holds the code IMC-Stream used to offer these files from its Setup page (finding the browsers and opening their extensions page). IMC-Stream no longer includes it; it is kept here in case it is useful.

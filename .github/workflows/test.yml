@@ -18,6 +18,3 @@ jobs:
           node-version: 22
       - name: Extension test
         run: node test.js
-      - name: Integration test
-        working-directory: imc-stream-integration
-        run: node browserext-test.js
